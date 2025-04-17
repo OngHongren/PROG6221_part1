@@ -31,4 +31,4 @@ A simple, interactive console application built with C# that provides cybersecur
 
 1. **Clone the repository or copy the code into a new C# Console App**:
    ```bash
-   git clone https://github.com/your-repo/CyberSecurityChatbot.git
+   git clone https://github.com/OngHongren/PROG6221_part1.git
